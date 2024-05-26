@@ -1,5 +1,3 @@
-# Write a script that uses the os module to create a new directory, 
-# change the current working directory to this new directory, and print the current working directory.
 import os
 import shutil
 
